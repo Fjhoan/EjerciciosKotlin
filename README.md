@@ -70,3 +70,4 @@ La clase `Exercises` contiene varios métodos que realizan diferentes ejercicios
 
 7. `sumOfNumbers()`: Solicita al usuario ingresar números repetidamente hasta que ingrese el número 0, luego muestra la suma total de todos los números ingresados.
 
+### ¡Gracias por leer este archivo!
