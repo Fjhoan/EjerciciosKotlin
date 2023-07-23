@@ -1,5 +1,5 @@
-# EjerciciosKotlin2
-### Aplicación de Consola con Menús en Kotlin
+# EjerciciosKotlin2 by Jhoan Fernando Fonseca Yotagri
+### Ejercicios Kotlin
 
 Este código Kotlin es una aplicación de consola con un menú que permite a los usuarios realizar varios ejercicios organizados en tres menús principales: **Operadores**, **Condicionales** y **Ciclos**.
 
